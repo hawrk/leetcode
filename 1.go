@@ -19,3 +19,7 @@ func twoSum(nums []int, target int) []int {
 }
 
 // 2. hash map 保存数据
+func towSum2(nums []int, target int) []int {
+	//TODO
+	return []int{}
+}
