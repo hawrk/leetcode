@@ -16,7 +16,8 @@ import (
 
 func main() {
 	// test 1_two_sum.go
-	input := []int{3,2,4 }
+	input := []int{3, 2, 4}
+
 	target := 6
 	out := twoSum(input, target)
 	fmt.Println(out)
