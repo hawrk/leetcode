@@ -6,6 +6,7 @@
 
 package main
 
+// 1 暴力解法
 func twoSum(nums []int, target int) []int {
 	for k1, v1 := range nums {
 		for k2, v2 := range nums {
@@ -16,3 +17,5 @@ func twoSum(nums []int, target int) []int {
 	}
 	return nil
 }
+
+// 2. hash map 保存数据
