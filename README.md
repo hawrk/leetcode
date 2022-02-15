@@ -1,2 +1,2 @@
 # leetcode
-leetcode-go
+leetcode-go 算法练习
